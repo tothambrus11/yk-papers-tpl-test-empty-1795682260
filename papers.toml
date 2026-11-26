@@ -1,0 +1,7 @@
+[environment]
+kind = "managed"
+typst = "0.14.2"
+
+[[document]]
+root = "slides.typ"
+engine = "typst"
